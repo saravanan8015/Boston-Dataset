@@ -3,7 +3,8 @@ Linear Regression
 
 
 Introduction
-               Linear Regression is a statistical approach for modelling relationship between a dependent variable with a given set of independent variable
+              
+              Linear Regression is a statistical approach for modelling relationship between a dependent variable with a given set of independent variable
           
 Boston Dataset
                 
